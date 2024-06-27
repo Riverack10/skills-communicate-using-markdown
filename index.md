@@ -9,3 +9,6 @@ Initialize empty GIT repository in /Users/skills/Projects/recipe-repository/.git
 ```javascript
 var myVar = "Hello, world";
 ```
+- [ ] Turn on GitHub Pages
+- [ ] Outlinemy portafolio
+- [x] Introduce myself to the world
